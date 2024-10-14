@@ -1,0 +1,21 @@
+id_venda,data_venda,id_cliente,nome_cliente,produto,categoria,quantidade,preco_unitario,preco_total
+1,2023-01-15,1001,Ana Silva,Camiseta,Moda,2,50.00,100.00
+2,2023-01-16,1002,Bruno Santos,Calça,Moda,1,80.00,80.00
+3,2023-01-17,1003,Carlos Oliveira,Tênis,Esportes,1,120.00,120.00
+4,2023-02-01,1004,Diana Costa,Bola de Futebol,Esportes,3,30.00,90.00
+5,2023-02-05,1005,Edson Pereira,Notebook,Eletrônicos,1,2500.00,2500.00
+6,2023-02-10,1006,Fernanda Lima,Smartphone,Eletrônicos,2,1500.00,3000.00
+7,2023-02-15,1007,Gustavo Souza,Livro,Entretenimento,5,40.00,200.00
+8,2023-02-20,1008,Heloisa Fernandes,Tablet,Eletrônicos,1,800.00,800.00
+9,2023-02-25,1009,Ivan Rodrigues,Câmera,Eletrônicos,1,1200.00,1200.00
+10,2023-03-01,1010,Joana Mendes,Fone de Ouvido,Eletrônicos,4,150.00,600.00
+11,2023-03-05,1011,Laura Almeida,Mouse,Eletrônicos,2,80.00,160.00
+12,2023-03-10,1012,Marcos Pinto,Teclado,Eletrônicos,1,150.00,150.00
+13,2023-03-15,1013,Natalia Sousa,Monitor,Eletrônicos,1,900.00,900.00
+14,2023-03-20,1014,Otávio Ribeiro,Impressora,Eletrônicos,1,650.00,650.00
+15,2023-03-25,1015,Patricia Gomes,Mochila,Acessórios,3,120.00,360.00
+16,2023-04-01,1016,Renato Azevedo,Caneta,Acessórios,10,5.00,50.00
+17,2023-04-05,1017,Sandra Barros,Caderno,Acessórios,5,15.00,75.00
+18,2023-04-10,1018,Tiago Fernandes,Calculadora,Acessórios,2,60.00,120.00
+19,2023-04-15,1019,Ursula Martins,Agenda,Acessórios,1,25.00,25.00
+20,2023-04-20,1020,Vitor Carvalho,Relógio,Acessórios,2,200.00,400.00
